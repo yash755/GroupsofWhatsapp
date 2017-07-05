@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "863411533197",
+    "firebase_url": "https://groups-of-whatsapp.firebaseio.com",
+    "project_id": "groups-of-whatsapp",
+    "storage_bucket": "groups-of-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863411533197:android:c5adde5025020a19",
+        "android_client_info": {
+          "package_name": "com.example.sanchit.groupsofwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863411533197-sr0u0v7s7ji478qnrf7378f9uup6i7on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLjvZ6tCZ_HMaf9uOjbG46F07cfRO0I48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

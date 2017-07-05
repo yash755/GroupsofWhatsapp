@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Groups Of Whatsapp</string>
+    <string name="title_activity_home">Home</string>
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string-array name="language">
+        <item>Arabic</item>
+        <item>Bengali</item>
+        <item>Chinese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Gujrati</item>
+        <item>Hindi</item>
+        <item>Japenese</item>
+        <item>Korean</item>
+        <item>Malay</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Turkish</item>
+    </string-array>
+
+
+    <string-array name="category">
+        <item>Adult 18+</item>
+        <item>Arts &#38; Culture</item>
+        <item>Bitcoin/Cryptocurrency</item>
+        <item>Blogging and Website</item>
+        <item>Buy &#38; Sale</item>
+        <item>FAN CLUBS</item>
+        <item>Dating</item>
+        <item>Educational</item>
+        <item>Fashion Trends</item>
+        <item>Friendship</item>
+        <item>Funny</item>
+        <item>Digital Marketing</item>
+        <item>Mischief/Affairs</item>
+        <item>Make Money Online</item>
+        <item>Music</item>
+        <item>News and politics</item>
+        <item>Sports</item>
+        <item>Spiritual/Religious</item>
+        <item>YouTube</item>
+    </string-array>
+
+</resources>
